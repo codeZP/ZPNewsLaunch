@@ -1,0 +1,6 @@
+framework module Pods_ZPNewsLaunchDemo {
+  umbrella header "Pods-ZPNewsLaunchDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
